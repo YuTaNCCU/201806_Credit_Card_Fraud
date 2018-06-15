@@ -13,5 +13,7 @@ git push -u origin master
 
 ## Ref
 https://www.kaggle.com/mlg-ulb/creditcardfraud
+
 https://www.kaggle.com/janiobachmann/credit-fraud-dealing-with-imbalanced-datasets
+
 https://www.kaggle.com/currie32/predicting-fraud-with-tensorflow
