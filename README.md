@@ -14,13 +14,13 @@ git push -u origin master
 https://www.kaggle.com/mlg-ulb/creditcardfraud/downloads/creditcard.csv/3
 
 ## Ref
-原始比賽網址：
+#### 原始比賽網址：
 https://www.kaggle.com/mlg-ulb/creditcardfraud
-處理不平衡資料+SVM+KNN+LgoitRegression+一層NN：
+#### 處理不平衡資料+SVM+KNN+LgoitRegression+一層NN：
 https://www.kaggle.com/janiobachmann/credit-fraud-dealing-with-imbalanced-datasets
-張量流：
+#### 張量流：
 https://www.kaggle.com/currie32/predicting-fraud-with-tensorflow
-如何評估不平衡資料：
+#### 如何評估不平衡資料：
 https://stats.stackexchange.com/questions/338826/auprc-vs-auc-roc
 
 ## Context
