@@ -1,5 +1,8 @@
 # CreditCardFraud
 
+## Slides
+https://docs.google.com/presentation/d/1oPUCpm07YkVT5m3kwcvKRjPOYYPiClMae8RZFGZDB4Y/edit?usp=sharing
+
 ## Git
 cd Desktop/
 cd CreditCardFraud/
